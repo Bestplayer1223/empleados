@@ -17,8 +17,9 @@ En la carpeta routes, en el archivo api.php están las rutas generadas para la A
 Para poder colocar en funcionamiento este proyecto, se debe realizar los siguientes
 pasos:
 Instalar dependencias: se deben ejecutar los siguientes comando en la raíz del proyecto
-        A. "composer install"
-        B. "npm install"
+
+A. "composer install"
+B. "npm install"
 
 Una vez ejecutados se pasa a crear una base de datos vacía, con el nombre de "prueba_tecnica_dev" en el gestor de bases de datos MYSQL de preferencia.
 Posterior a la creación de la base de datos, en la raíz se debe crear un archivo llamado ".env"
